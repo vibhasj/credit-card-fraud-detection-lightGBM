@@ -1,4 +1,3 @@
-# credit-card-fraud-detection-lightGBM
 ## Credit Card Fraud Detection with LightGBM
 Overview
 
